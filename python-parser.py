@@ -1,7 +1,3 @@
-# 파이썬프로그래밍
-# Json File Parser 개발
-# 정보보호학과 20184606 김준영
-
 import glob # 파일 리스트를 얻기 위해 'glob' 모듈 사용
 import json # Json 데이터를 처리하기 위해 'json' 모듈 사용
 import csv # CSV 데이터를 처리하기 위해 'csv' 모듈 사용
