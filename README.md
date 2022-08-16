@@ -1,2 +1,2 @@
 # python parser
- JSON-CSV file parser using Python
+ JSON to CSV file parser using Python
